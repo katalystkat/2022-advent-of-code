@@ -1,0 +1,22 @@
+{
+  "name": "2022-advent-of-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katalystkat/2022-advent-of-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katalystkat/2022-advent-of-code/issues"
+  },
+  "homepage": "https://github.com/katalystkat/2022-advent-of-code#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
